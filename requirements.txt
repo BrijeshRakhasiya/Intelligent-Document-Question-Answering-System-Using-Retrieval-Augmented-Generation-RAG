@@ -1,8 +1,8 @@
-python==3.10.16
+# python==3.10.16
 python-ipykernel
 langchain
 langchain_community
 langchain_core
 langchain_chroma
 langchain_text_splitters
-
+google-generativeai
