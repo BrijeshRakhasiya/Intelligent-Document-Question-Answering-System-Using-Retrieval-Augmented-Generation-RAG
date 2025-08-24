@@ -1,4 +1,5 @@
 # python==3.10.16
+PyPDF2
 langchain
 langchain_community
 langchain_core
@@ -10,3 +11,7 @@ ipykernel
 streamlit
 mysql-connector-python
 SQLAlchemy
+langchain_groq
+sentence-transformers
+faiss-cpu
+InstructorEmbedding
