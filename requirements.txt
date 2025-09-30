@@ -15,3 +15,5 @@ langchain_groq
 sentence-transformers
 faiss-cpu
 InstructorEmbedding
+pypdf
+mysql-connector-python
